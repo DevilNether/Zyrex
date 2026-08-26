@@ -1,6 +1,6 @@
 return {
     ["ftaqvjv263"] = true,
-    ["khakhaNguthe"] = true,
+    ["KhakhaNguthe"] = true,
     ["ZaneOfSus_HGyA1"] = true,
     ["luanGK113"] = true,
     ["Cr9xeds"] = true,
