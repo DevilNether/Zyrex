@@ -4,4 +4,5 @@ return {
     ["ZaneOfSus_HGyA1"] = true,
     ["luanGK113"] = true,
     ["Cr9xeds"] = true,
+    ["YNU_PQD"] = true,
 }
