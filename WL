@@ -5,5 +5,5 @@ return {
     ["luanGK113"] = true,
     ["Cr9xeds"] = true,
     ["YNU_PQD"] = true,
-    ["Phys1cS0n"] true,
+    ["Phys1cS0n"] true
 }
